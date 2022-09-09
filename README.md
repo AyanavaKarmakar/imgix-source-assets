@@ -11,3 +11,6 @@ Kloud Pad Snapshot:
 CatchApp Snapshot:
 ![image](https://user-images.githubusercontent.com/89210438/189305155-3ccbd7e7-d568-47f2-9fce-b163362156eb.png)
 
+Weather App Snapshot: ![image](https://user-images.githubusercontent.com/89210438/189307211-b8d6d110-9c0c-4ce3-a165-70a32857a6d2.png)
+
+
