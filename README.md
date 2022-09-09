@@ -5,5 +5,5 @@ Repo containing assets for imgix source
 2. whiteCat
 
 
-Kloud Pad Snapshot: ![189303158-8600ec8c-0d0d-4e7a-96c8-efa1e8f4bf94 Cropped](https://user-images.githubusercontent.com/89210438/189303680-87f8b641-671c-4f58-b624-e92e4a3779c9.png)
+Kloud Pad Snapshot: ![image](https://user-images.githubusercontent.com/89210438/189304444-ba1192f1-5314-4f00-9528-cd9ab697c8dd.png)
 
