@@ -28,4 +28,5 @@ logo? ![undraw_Letter_re_8m03](https://user-images.githubusercontent.com/8921043
 group text icon ![image](https://user-images.githubusercontent.com/89210438/190708630-526de943-f158-4f24-809b-279c58ea70fe.png)
 
 new icon
- ![My project](https://user-images.githubusercontent.com/89210438/190860087-3d424ea0-f1f7-446c-8332-31f03ba5dbe9.png)
+
+![My project (1)](https://user-images.githubusercontent.com/89210438/190860429-2aa422af-ee72-4b66-884e-ad1102fda01b.png)
