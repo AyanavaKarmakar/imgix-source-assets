@@ -33,3 +33,5 @@ new icon
 
 Catchapp snapshot: ![image](https://user-images.githubusercontent.com/89210438/190871778-b15cf4c5-11fe-4797-8ab0-98629db91c1b.png)
 
+icon: ![icon](https://user-images.githubusercontent.com/89210438/190916737-747bc3a7-9b33-4f12-aa83-612f9f07c467.png)
+
