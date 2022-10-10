@@ -35,3 +35,6 @@ Catchapp snapshot: ![image](https://user-images.githubusercontent.com/89210438/1
 
 icon: ![icon](https://user-images.githubusercontent.com/89210438/190916737-747bc3a7-9b33-4f12-aa83-612f9f07c467.png)
 
+LandingPageBG: 
+![landingPageBG](https://user-images.githubusercontent.com/89210438/194807936-f30efc94-0832-40f6-ae3d-38cd2f6c04a8.png)
+
